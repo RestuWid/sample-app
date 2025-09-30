@@ -35,4 +35,3 @@ docker run -d -p 5050:5050 \
   sampleapp
   
 # Step 7: Tampilkan container yang sedang berjalan
-docker ps -a
